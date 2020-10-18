@@ -1,0 +1,21 @@
+.a{
+    text-align: center;
+    font-family: fantasy;
+    color: greenyellow ;
+    font-size: 60px;
+    ;
+}
+.b{
+    background-image: url(https://media1.giphy.com/media/3o7qDNfxtNRtLVv8qs/source.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-color: black;
+    background-attachment: fixed;
+    
+}
+.q{
+    text-align: justify;
+    color: cornflowerblue;
+    font-size: 48px;
+    font-family: cursive;
+}
